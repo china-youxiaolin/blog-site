@@ -3,7 +3,7 @@ layout: home
 layoutClass: 'm-home-layout'
 
 hero:
-  name: 安楠
+  name: 韩笑
   text: 上了生活的贼船, 那就做个快乐的小海盗
   tagline: 每天进步一点点...
   image:
